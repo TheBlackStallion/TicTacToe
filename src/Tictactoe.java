@@ -14,8 +14,8 @@ class Tic_TacToe
         resetBoard(board);
 
 
-        System.out.println("xxxxx YOU HAVE ENTERED THE TICTACTOE REALM xxxxx\n");
-        System.out.println("xxxxx GET FIVE IN A ROW TO BE VICTORIOUSSS xxxxx\n");
+        System.out.println("xxxxxx YOU HAVE ENTERED THE TICTACTOE REALM xxxxxx\n");
+        System.out.println("xxxxxx GET FIVE IN A ROW TO BE VICTORIOUSSS xxxxxx\n");
         showBoard(board);
 
 
